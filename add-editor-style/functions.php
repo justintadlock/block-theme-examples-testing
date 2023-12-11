@@ -7,5 +7,5 @@ add_action( 'after_setup_theme', 'themeslug_editor_styles' );
  * @since 1.0.0
  */
 function themeslug_editor_styles() {
-	add_editor_style( get_stylesheet_uri() );
+	add_editor_style( get_theme_file_uri( 'style.css' ) );
 }
