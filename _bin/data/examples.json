@@ -1,5 +1,12 @@
 [
 	{
+		"slug": "add-editor-style",
+		"description": "add-editor-style",
+		"tags": [
+			"block-theme"
+		  ]
+	},
+	{
 		"slug": "example-block-style-js",
 		"description": "example-block-style-js",
 		"tags": [
